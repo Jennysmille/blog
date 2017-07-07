@@ -1,0 +1,87 @@
+body
+{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(1.jpg);
+  width: 90%;
+  height: 50%;
+  margin: auto;
+}
+
+img
+{
+  margin-top: -41px;
+  margin-bottom: -19px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 290px;
+  display: block;
+  width: 100%;
+}
+
+h1
+{
+  display: flex;
+  justify-content: center;
+  color: #ef5285;
+  font-size: 70px;
+  margin-left: 25%;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 100px;
+  padding: 10px;
+  width: 557px;
+  height: 57px;
+  margin-top: -30px;
+}
+
+p {
+
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  font-family: 'Indie Flower', cursive;
+  list-style: none;
+  position: relative;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+  border: 2px solid #ef5285;
+  background-color: pink;
+}
+
+a{
+  text-decoration: none;
+  display: block;
+  justify-content: center;
+  font-family: 'Indie Flower', cursive;
+  list-style: none;
+  position: relative;
+  font-size: 25px;
+  color: #ef5285;
+  margin: 10px;
+}
+
+table {
+    font-family: 'Indie Flower', cursive;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    padding: 19px;
+}
+
+.header{
+  display: flex;
+  justify-content: flex-end;
+  font-family: 'Indie Flower', cursive;
+  text-decoration: underline;
+  color: #ef5285;
+  font-size: 25px;
+  Font-Weight: Bold;
+  padding: 0 1% 0;
+  margin: 10px;
+}

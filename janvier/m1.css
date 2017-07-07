@@ -1,0 +1,82 @@
+body{
+  
+  background-color: pink;
+}
+
+img.displayed{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+h1{
+
+  text-align: center;
+  color:#E94C58;
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+}
+
+h3{
+
+  color: #E94C58;
+  text-decoration:  underline;
+  margin-top: 30px;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  width: 800px;
+}
+
+p{
+
+  margin-top: 30px;
+  font-size: 25px;
+  width: 1280px;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  top: 40%
+}
+
+li{
+
+	list-style-type: disc;
+	vertical-align: middle;
+	text-align: left;
+	padding: 5px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+	padding-left: 12px;
+  margin-left: 24px;
+  list-style: none;
+}
+
+ul{
+
+  display:block;
+}
+
+.b{
+
+  color:red;
+}
+
+.pagination a{
+
+  display: inline;
+  flex-direction: row;
+  text-decoration: none;
+  margin: 0 6px;
+  padding: 6px;
+  font-size: 15px;
+  color: #E94C58;
+  padding:3px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+}
+
+.pagination a:hover{
+
+  background-color: black;
+  text-decoration: underline;
+}
